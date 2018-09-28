@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/042-dex-ignore-result" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/043-dex-two-classes" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/044-dex-math-ops" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/045-dex-switch-ops" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/046-dex-exceptions" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/047-dex-wide-args" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/048-dex-new-array" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/049-dex-instanceof" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/050-dex-checkcast" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/051-dex-explicit-null" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/052-dex-static-var-access" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/053-dex-instance-var-access" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/054-dex-high16" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/055-dex-explicit-throw" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/056-dex-call-interface" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/057-dex-call-virtual" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/058-dex-call-direct" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/059-dex-call-super" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/060-dex-call-static" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/061-dex-try-catch" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/062-dex-synch-method" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/063-dex-empty-switch" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/064-dex-array-access" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/065-dex-new-array" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/066-dex-try-catch-rethrow" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/067-dex-switch-and-try" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/068-dex-infinite-loop" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/069-dex-source-position" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/070-dex-multianewarray" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/072-dex-switch-edge-cases" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/073-dex-null-array-refs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/074-dex-form35c-edge-case" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/075-dex-cat2-value-merge" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/076-dex-synch-and-stack" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/077-dex-code-alignment" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/078-dex-local-variable-table" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/079-dex-local-variable-renumbering" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/080-dex-exception-tables" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/081-dex-throws-list" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/082-dex-throws-list-sharing" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/083-ssa-phi-placement" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/084-dex-high-register-moves" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/086-ssa-edge-split" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/087-ssa-local-vars" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/088-ssa-combine-blocks" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/089-dex-define-object" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/090-dex-unify-arrays" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/091-ssa-const-collector" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/092-ssa-cfg-edge-cases" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/093-ssa-invoke-range" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/095-dex-const-string-jumbo" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/096-dex-giant-catch" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/097-dex-branch-offset-zero" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/099-dex-core-library-error" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/108-string-annotation" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/110-dex-preserve-this" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/111-use-null-as-array" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/113-old-style-inner-class" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/115-merge" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/116-leb128" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/117-modified-utf8" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/118-find-usages" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/119-merge-conflict" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/120-disable-extended-ops" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/121-sccp" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/122-switch-with-high-register" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="021-string2" />
+    <orderEntry type="module" module-name="082-inline-execute" />
+  </component>
+</module>
